@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTISignal", "PTISignal\PTISignal.csproj", "{F24336ED-43D9-4354-9C8A-9884327C8B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24336ED-43D9-4354-9C8A-9884327C8B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24336ED-43D9-4354-9C8A-9884327C8B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24336ED-43D9-4354-9C8A-9884327C8B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24336ED-43D9-4354-9C8A-9884327C8B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

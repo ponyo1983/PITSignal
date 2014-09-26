@@ -1,0 +1,9 @@
+D:\PTISignal\PTISignal\bin\Release\PTISignal.exe
+D:\PTISignal\PTISignal\bin\Release\PTISignal.pdb
+D:\PTISignal\PTISignal\obj\Release\ResolveAssemblyReference.cache
+D:\PTISignal\PTISignal\obj\Release\PTISignal.FormMain.resources
+D:\PTISignal\PTISignal\obj\Release\PTISignal.Properties.Resources.resources
+D:\PTISignal\PTISignal\obj\Release\PTISignal.csproj.GenerateResource.Cache
+D:\PTISignal\PTISignal\obj\Release\PTISignal.exe.licenses
+D:\PTISignal\PTISignal\obj\Release\PTISignal.exe
+D:\PTISignal\PTISignal\obj\Release\PTISignal.pdb
